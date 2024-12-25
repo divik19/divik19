@@ -12,12 +12,6 @@
     <li><b>Microsoft Office:</b> MS Excel (Advanced), PowerPoint</li>
 </ul>
 
-<h2>📚 Education:</h2>
-<ul>
-    <li><b>Bachelor of Technology (B.Tech)</b> - Lovely Professional University (LPU), Feb '24 - Present</li>
-    <li><b>Executive Post Graduate Program in Business Analytics</b> - LIBA, Chennai (May '23 - May '24)</li>
-</ul>
-
 <h2>📊 Projects:</h2>
 <ul>
     <li><b>Supply Chain Performance Optimization</b>  
@@ -42,20 +36,10 @@
     </li>
 </ul>
 
-<h2>🔧 Professional Experience:</h2>
-
-<h3>Data Analyst at <b>Reliance Industries Limited</b> (Feb '24 – Present)</h3>
+<h2>📚 Education:</h2>
 <ul>
-    <li>Ensured data integrity and optimized analysis-ready large datasets using Excel, SQL, Python, and Power BI, enabling informed decision-making through trend analysis.</li>
-    <li>Collaborating with cross-functional teams to implement data-driven strategies, resulting in improved KPIs.</li>
-    <li><b>Security KPI Dashboard:</b> Organized and standardized data before crafting SQL queries in the database. Enhanced decision-making efficiency by 25% through the development of data dashboards and visualizations in Power BI.</li>
-    <li><b>HR Analytics Dashboard:</b> Developed a comprehensive dashboard to analyze key HR metrics, including manpower trends, learning and development initiatives, and employee training progress.</li>
-</ul>
-
-<h3>Technician at <b>Reliance Industries Limited</b> (Mar '22 – Feb '24)</h3>
-<ul>
-    <li>Performed regular maintenance tasks to uphold equipment performance and extend lifespan by 20%, utilizing technical troubleshooting skills.</li>
-    <li>Partnered closely with wellsite and plant operations to assess both routine and emergency work, ensuring optimal equipment functionality on the wellsite for sustained production.</li>
+    <li><b>Bachelor of Technology (B.Tech)</b> - Lovely Professional University (LPU) </li>
+    <li><b>Executive Post Graduate Program in Business Analytics</b> - LIBA, Chennai (May '23 - May '24)</li>
 </ul>
 
 <h2>🎓 Certifications:</h2>
