@@ -1,4 +1,4 @@
-<h1>Hi, I'm Divik Dalish Shah! <br/>Data Analyst</a>, Business Analyst</a>
+<h1>Hi, I'm Divik Dalesh Shah! <br/>Data Analyst</a>, Business Analyst</a>
 
 <h2>👨‍💻 Professional Summary:</h2>
 <p>Certified Business Analyst with expertise in data analytics, business intelligence, and data visualization using Python, SQL, Excel, Power BI, and Tableau. Skilled in analyzing complex data sets, extracting insights, and delivering solutions to enhance business efficiency and decision-making. Strong in reporting, dashboarding, and problem-solving, with a proactive approach and a commitment to continuous learning.</p>
